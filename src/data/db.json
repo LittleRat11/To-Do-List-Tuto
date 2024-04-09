@@ -1,0 +1,19 @@
+{
+  "todolist": [
+    {
+      "id": "abf695cf-06fd-9e38-0246-4963f35eb5a1",
+      "task": "To Learn Tailwind",
+      "complete": false
+    },
+    {
+      "id": "3c960510-573f-ed7c-2765-c20f2604a28d",
+      "task": "To Learn React ",
+      "complete": false
+    },
+    {
+      "id": "426d26a6-b9f0-780c-35e4-5774d587ebc6",
+      "task": "To Learn Kanji",
+      "complete": false
+    }
+  ]
+}
